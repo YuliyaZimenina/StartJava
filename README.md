@@ -133,6 +133,27 @@ public class SamplingWords {
 
 ## Screenshots
 
+1. The result of the program **Fibonacci Numbers** (`FibonacciNumbers.java`):
+
+<img src="images/1.%20Fibonacci%20numbers.png" alt="Fibonacci numbers." width="450"/>
 
 
+2. The result of the program **Print Triangle** (`PrintTriangle.java`):
 
+
+<img src="images/2.%20Print%20triangle.png" alt="Print triangle." width="450"/>
+
+
+3. The result of the program **Dollar Rate** (`DollarRate.java`):
+
+<img src="images/3.%20DollarRate.png" alt="Dollar Rate" width="300"/>
+
+
+4. The result of the program **Sum All Array Elements** (`SumAllArrayElements.java`):
+
+<img src="images/4.%20Sum%20array%20elements.png" alt="Sum All Array Elements" width="450"/>
+
+
+5. The result of the program **Negative and Positive Arrays Elements** (`NegativeAndPositiveArrayElements`):
+
+<img src="images/4.%20Sum%20array%20elements.png" alt="Negative and Positive Arrays Elements" width="450"/>
