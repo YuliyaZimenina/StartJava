@@ -21,11 +21,11 @@ public class DollarRate {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter the current USD exchange rate.");
         rate = scanner.nextDouble();
-        System.out.println("The current USD exchange rate is" + rate + "conventional units\n");
+        System.out.println("The current USD exchange rate is " + rate + " conventional units\n");
         System.out.println("\t\t\tCONVERSION TABLE OF THE US DOLLAR TO CONVENTIONAL UNITS\n");
         //Using a loop "for"
         for (int i = 1; i < 21; i++) {
-            System.out.println("\t\t\t" + i + "\t" + "$ = " + Math.ceil(i * rate) + "\tC.U.");
+            System.out.println("\t\t\t" + i + "\t" + "$ = " + Math.ceil(i * rate) + "\t C.U.");
         }
         scanner.close();
     }
