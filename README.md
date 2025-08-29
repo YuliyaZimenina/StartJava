@@ -13,13 +13,13 @@ An educational project that implements examples of programs designed for studyin
 
 ## Description
 
-This repository contains a collection of **educational Java programs** demonstrating basic concepts
+This repository contains a collection of educational Java programs demonstrating basic concepts
 of programming.
 The project is divided into several thematic packages with simple console applications.
 
 ### Purpose
 
-The project was created as a **learning playground** for mastering **Java basics** (`JavaCore`):
+The project was created as a learning playground for mastering **Java basics** (`JavaCore`):
 - arrays
 - loops and operators
 - simple operations with numbers
@@ -57,7 +57,7 @@ The project was created as a **learning playground** for mastering **Java basics
 
 ## Technologies
 
-- **Java SE** (version 11)
+- **Java SE** (`version 11`)
 
 ## Installation and Running
 
